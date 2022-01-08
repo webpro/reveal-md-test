@@ -1,0 +1,6 @@
+{
+  "preprocessor": "preprocessor/prep.js",
+  "scripts": ["plugins/plugin1.js", "plugin.js", "assets/plugin2.js"],
+  "css": ["styles.css", "plugins/styles1.css"],
+  "theme": "theme.css"
+}
